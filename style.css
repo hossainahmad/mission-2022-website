@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 0;
+}
+.Yeseva{
+    font-family: 'Yeseva One', cursive;
+    font-size: 60px;
+    font-weight: 700;
+    padding-left: 9px;
+    border-left:4px solid #FF5959;
+}
+.colorful-text-orange{    
+    color: #FFAD5A;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 50px;
+
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.half-width img{
+    width: 75%;
+}
+.button-link{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    background-color: #FF5959;
+    padding: 8px 12px;
+    border-radius: 5px;
+}
+#center-text{
+    text-align:center;
+    font-size: 48px;
+    font-weight: bold;
+}

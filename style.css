@@ -2,6 +2,9 @@ body{
     font-family: 'Poppins', sans-serif;
     margin-bottom: 0;
 }
+body p{
+    font-size: 18px;
+}
 .Yeseva{
     font-family: 'Yeseva One', cursive;
     font-size: 60px;
@@ -15,7 +18,7 @@ body{
 .flexible-container{
     display: flex;
     margin-bottom: 50px;
-
+    align-items: center;
 }
 .half-width{
     width: 50%;
@@ -30,7 +33,7 @@ body{
     font-size: 16px;
     background-color: #FF5959;
     padding: 8px 12px;
-    border-radius: 5px;
+    border-radius: 7px;
 }
 #center-text{
     text-align:center;
@@ -73,7 +76,7 @@ body{
     background-position: left;
 }
 .code-image img{
-    width: 100%;
+    width: 70%;
 }
 .develop-header h1{
     font-size: 40px;
@@ -85,6 +88,9 @@ body{
 .company-header h1{
     font-size: 40px;
     font-weight: bold;
+}
+.company-header p{
+    font-size: 18px;
 }
 .customer-header h2{
     font-size: 35px;
